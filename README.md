@@ -3,10 +3,10 @@
 Site to be altered for section 01 Homework.
 
 ## Changes
--replaced ids from sections under "content" class to connect links
+-changed "content" class back into two classes as design was compromised
 
--added notes to css and html files
+-organized CSS semantically
 
--compressed classes under “content” class into one
+-added some semantic HTML tags to organize code better
 
--changed footer class into footer element in HTML and CSS
+-fixed stray "#" in "search-engine-optimization" id
