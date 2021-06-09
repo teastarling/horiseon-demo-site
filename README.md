@@ -1,12 +1,11 @@
 # Horiseon Demo Site
 
-Site to be altered for section 01 Homework.
+Business site containing HTML and CSS elements corrected, notated, and organized for ease of work in team settings
 
-## Changes
--changed "content" class back into two classes as design was compromised
+## Screen Capture
 
--organized CSS semantically
+[Appearance](horiseon-demo-site.png)
+ 
+## Deployed
 
--added some semantic HTML tags to organize code better
-
--fixed stray "#" in "search-engine-optimization" id
+Deployed content can be seen [here](https://teastarling.github.io/horiseon-demo-site/)
