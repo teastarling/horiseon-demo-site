@@ -1,19 +1,12 @@
-# horiseon-demo-site
-01 Homework Assignment
 # Horiseon Demo Site
 
 Site to be altered for section 01 Homework.
 
 ## Changes
+-replaced ids from sections under "content" class to connect links
 
--removed header class and replaced with header element
+-added notes to css and html files
 
--condensed "benefit" classes down into two classes
+-compressed classes under “content” class into one
 
--removed class designation from h3 element
-
--added alt explanations for images
-
--reorganized css to coincide with html structure
-
--removed unused ids from sections under "content" class
+-changed footer class into footer element in HTML and CSS
